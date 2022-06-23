@@ -1,9 +1,9 @@
 ---
 title: FOSS4G TOKAI 2022
-subtitle: たんけん　ぎふのもり
-time: 8/10(水), 8/11(祝) @森林文化アカデミー(美濃市) #  ハンズオン, セッション申し込み Comming Soon
+subtitle: たんけん ぎふのもり
+time: 8/10(水), 8/11(祝) 
 place: 
-image: https://ucarecdn.com/252f77d0-bfdc-4f0e-9d16-b074ceb6d69c/
+image: img/fd07a1433ab200d895020918681508ea.webp
 
 blurb:
   heading: Message
@@ -15,9 +15,11 @@ blurb:
 
 news:
   heading: News
-  youtube: https://www.youtube.com/embed/y8T_XuSUlwU
+  youtube: https://www.youtube.com/embed/54oGFBVxCA0
   text: 
    | 
+   - 6/21(火) : [最新事情#4](https://www.youtube.com/watch?v=54oGFBVxCA0)を配信しました
+
    - 6/13(金) : サイトを公開しました
 
    - 6/7(火) : [最新事情#3](https://www.youtube.com/watch?v=y8T_XuSUlwU)を配信しました
