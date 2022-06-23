@@ -85,3 +85,18 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+.popfont {
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.linestyle {
+    margin-left: 0em;
+    text-transform: none;
+    -webkit-text-stroke: 0.0375em rgb(32, 47, 90);
+    color: #202f5a;
+    letter-spacing: 0em;
+    line-height: 1.24em;
+    -webkit-text-fill-color: transparent;
+    direction: ltr;
+}
