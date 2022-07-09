@@ -15,9 +15,13 @@ blurb:
 
 news:
   heading: News
-  youtube: https://www.youtube.com/embed/54oGFBVxCA0
+  youtube: https://www.youtube.com/embed/joCZmBGPfTc
   text: 
    | 
+   - 7/5(火) : ハンズオン申込みを公開しました
+
+   - 7/5(火) : [最新情報#5](https://www.youtube.com/watch?v=joCZmBGPfTc)を配信しました
+
    - 6/21(火) : [最新事情#4](https://www.youtube.com/watch?v=54oGFBVxCA0)を配信しました
 
    - 6/13(金) : サイトを公開しました
