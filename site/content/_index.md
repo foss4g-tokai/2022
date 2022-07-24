@@ -5,6 +5,11 @@ time: 8/10(水), 8/11(祝)
 place: 
 image: img/fd07a1433ab200d895020918681508ea.webp
 
+place:
+  heading: 開催場所
+  text:  <a target="blank" href="https://www.forest.ac.jp/about/access/">岐阜県立森林文化アカデミー</a> & Online
+  imageUrl: img/PXL_20220723_045931276.jpg
+
 blurb:
   heading: Message
   text:  岐阜県は国内有数の林業の盛んな地域です。会場である森林文化アカデミーも林業を中心とした森に関する文化や技術の継承を実践しています。<br>
@@ -15,9 +20,13 @@ blurb:
 
 news:
   heading: News
-  youtube: https://www.youtube.com/embed/joCZmBGPfTc
+  youtube: https://www.youtube.com/embed/ajw_4l9HlhA
   text: 
    | 
+   - 7/25(月) : ハンズオン, 子供向けワークショップの申し込みを公開しました
+
+   - 7/19(火) : [最新情報#6](https://www.youtube.com/watch?v=ajw_4l9HlhA)を配信しました
+
    - 7/5(火) : ハンズオン申込みを公開しました
 
    - 7/5(火) : [最新情報#5](https://www.youtube.com/watch?v=joCZmBGPfTc)を配信しました
@@ -56,4 +65,9 @@ news:
 #     one of colonialism and mindless abuse of natural resources and human lives.
 #     We want to turn this around and return the coffee trade to the drink’s
 #     exhilarating, empowering and unifying nature.
----
+---8-104 ~]$
+[ctyo@v133-18-48-104 ~]$
+[ctyo@v133-18-48-104 ~]$ sudo /usr/bin/certbot-auto renew --post-hook "sudo service nginx restart"
+[sudo] ctyo のパスワード:
+Your system is not supported by certbot-auto anymore.
+certbot-auto and its Certbot
