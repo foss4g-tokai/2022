@@ -23,7 +23,7 @@ news:
   youtube: https://www.youtube.com/embed/ajw_4l9HlhA
   text: 
    | 
-   - 7/25(月) : ハンズオン, 子供向けワークショップの申し込みを公開しました
+   - 7/25(月) : ハンズオン, 子供向けワークショップ, LTの申し込みを公開しました
 
    - 7/19(火) : [最新情報#6](https://www.youtube.com/watch?v=ajw_4l9HlhA)を配信しました
 
