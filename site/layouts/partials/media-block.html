@@ -1,12 +1,17 @@
-<div class="flex-m mhn3-m mb4">
+<div class="bg-grey-1 pv4" style="background-color: #5a9980;">
+	<div class="ph3 mw7 center">
+    <h3 class="f3 b lh-title mb1 off-white">{{.heading | safeHTML}}</h3>
 
-  <div class="ph3-m w-50-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+		<div class="flex-l mhn2-l">
+      <div class="ph3-m w-50-m">
+        <img src="{{.imageUrl}}" alt="" class="db mb2">            
+      </div>
+
+      <div class="ph3-m w-50-m">
+        <p>{{.text | safeHTML}}</p>
+      </div>
+    </div>
   </div>
-
-  <div class="ph3-m w-50-m">
-    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
-  </div>
-
 </div>
+
+
