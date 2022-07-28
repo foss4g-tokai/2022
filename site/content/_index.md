@@ -75,7 +75,7 @@ session:
       detail: 
     - time: 11:10〜
       title: <span class="grey-2">セッション1</span><br>森林情報のオープンデータとQGISでの利用
-      detail: 喜多 耕一<br>（FOSS4G Hokkaido）
+      detail: キタ コウイチ<br>北海道
       icon: img/icon/01_キタ コウイチ.png
 
     - time: 11:30〜
@@ -149,7 +149,7 @@ session:
       title: クロージング
     - time: 17:00〜
       title: 閉会
-    - time: 18:00〜
+    - time: 〜18:00
       title: 終了			
   
 
