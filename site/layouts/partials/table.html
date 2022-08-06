@@ -30,13 +30,26 @@
 					<tr></tr>
 					{{ range .sessions }}
 					<tr>
-						<td>{{.time}}</td><td class="b">{{.title | safeHTML}}</td>
+						<td>{{.time}}</td>
+						<td class="" >
+							<p class="b spacing-small">{{.title | safeHTML}}</p>
+
+							{{if .content}}
+							<p class="">{{.content | safeHTML}}</p>
+							{{end}}	
+						</td>
 						<td style="vertical-align: middle;">
 							{{if .icon}}
 							<img style="width:6em; min-width: 50px;" src="{{.icon}}">
-							{{end}}
+							{{end}}										
 						</td>
-						<td>{{.detail | safeHTML}}</td>
+						<td>
+							<p class="spacing-small">{{.detail | safeHTML}}</p>
+														
+							{{if .profile}}
+							<p class="">{{.profile | safeHTML}}</p>
+							{{end}}			
+						</td>
 					</tr>
 					{{ end }}
 				</tbody>
