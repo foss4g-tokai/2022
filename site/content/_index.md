@@ -7,7 +7,7 @@ image: img/fd07a1433ab200d895020918681508ea.webp
 
 place:
   heading: 開催場所
-  text:  <a target="blank" href="https://www.forest.ac.jp/about/access/">岐阜県立森林文化アカデミー</a> & Online
+  text:  <a target="blank" href="https://www.forest.ac.jp/about/access/">岐阜県立森林文化アカデミー</a> & Online<br><br><a href="access.pdf" target="_blank">会場・駐車場案内</a>
   imageUrl: img/PXL_20220723_045931276.jpg
 
 blurb:
@@ -184,6 +184,8 @@ news:
   text: 
    | 
    - 8/6(土) : [最新情報#8](https://www.youtube.com/watch?v=ReA2_fSXDDg)を配信しました
+
+   - 8/6(土) : セッション内容詳細、会場案内を更新しました
 
    - 8/2(火) : [最新情報#7](https://www.youtube.com/watch?v=p4433V4rMdk)を配信しました
 
