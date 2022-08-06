@@ -156,9 +156,13 @@ session:
 
 news:
   heading: News
-  youtube: https://www.youtube.com/embed/ajw_4l9HlhA
+  youtube: https://www.youtube.com/embed/p4433V4rMdk
   text: 
    | 
+   - 8/6(土) : [最新情報#8](https://www.youtube.com/watch?v=ReA2_fSXDDg)を配信しました
+
+   - 8/2(火) : [最新情報#7](https://www.youtube.com/watch?v=p4433V4rMdk)を配信しました
+
    - 7/27(水) : ハンズオン、タイムテーブルの詳細を更新しました
 
    - 7/25(月) : ハンズオン, 子供向けワークショップ, LTの申し込みを公開しました
