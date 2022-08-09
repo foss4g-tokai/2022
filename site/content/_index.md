@@ -5,6 +5,10 @@ time: 8/10(水), 8/11(祝)
 place: 
 image: img/fd07a1433ab200d895020918681508ea.webp
 
+headline:
+  text:  8/11(祝) セッションDay<br><a href="https://www.youtube.com/watch?v=odWxwtV_lyU" target="_blank">オンライン配信(YouTube)</a> <a href="https://bit.ly/foss4gtokai2022gather" target="_blank">オンライン交流スペース</a>(10:00-18:00まで)
+
+
 place:
   heading: 開催場所
   text:  <a target="blank" href="https://www.forest.ac.jp/about/access/">岐阜県立森林文化アカデミー</a> & Online<br><br><a href="access.pdf" target="_blank">会場・駐車場案内</a>
@@ -65,7 +69,7 @@ sessiontitle:
 
 session:
   heading: タイムテーブル
-  description: 会場情報、配信YouTubeURLは後日、記載いたします
+  description: 会場:<a href="/access.pdf" target="_blank">森の情報センター</a>、 <a href="https://www.youtube.com/watch?v=odWxwtV_lyU" target="_blank">オンライン配信(YouTube)</a><br><a href="https://bit.ly/foss4gtokai2022gather" target="_blank">オンライン交流スペース(Gather)</a>(10:00-18:00まで)
   sessions:
     - time: 10:30〜
       title: 受付開始
@@ -183,6 +187,12 @@ news:
   youtube: https://www.youtube.com/embed/p4433V4rMdk
   text: 
    | 
+   - 8/10(水) : ハンズオンとワークショップの申し込みは終了しました。
+   
+   - 8/10(水) :セッションはオンライン参加のみ受付ています。
+   
+   - 8/10(水) : オンライン交流スペース、配信用URLを公開しました
+
    - 8/6(土) : [最新情報#8](https://www.youtube.com/watch?v=ReA2_fSXDDg)を配信しました
 
    - 8/6(土) : セッション内容詳細、会場案内を更新しました
