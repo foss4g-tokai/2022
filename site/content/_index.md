@@ -219,6 +219,63 @@ news:
 
    - 4/19(火) : [最新事情#1](https://www.youtube.com/watch?v=t19MPU4n7tc)を配信しました
 
+supporter:
+  member:
+    - name: 杉本 和也
+      company: 岐阜県立森林文化アカデミー
+      url: https://www.forest.ac.jp/
+    - name: 古川 邦明
+      custom : <a href="https://www.forest.ac.jp/">岐阜県立森林文化アカデミー</a> / <a href="https://www.forest.rd.pref.gifu.lg.jp/">森林研究所</a>
+    - name: 石井 哲治
+      company: Code for Gifu
+      url: https://www.facebook.com/code4gifu/
+#    - name: 中村 親也
+#      company: Code for Gifu
+#      url: https://www.facebook.com/code4gifu/
+    - name: 安田 繁
+      company: Code for Gifu
+      url: https://www.facebook.com/code4gifu/
+    - name: 横井 武志
+      company: Code for Gifu
+      url: https://www.facebook.com/code4gifu/
+    - name: 石井 宏章
+      company: ESRI ジャパン株式会社
+      url: https://www.esrij.com/
+    - name: 國枝 裕介
+      company:
+      url:
+    - name: 吉中 輝彦
+      company: 民間建設コンサルタント（耐震関係） / ギルド：黎明の調べ
+      url: 								
+    - name: 伊藤 永
+      custom : <a href="https://www.mapmaster.co.jp/   ">株式会社トヨタマップマスター</a> / ジオメディアサミット名古屋
+#  - name: 岩田 員典
+#      company: 愛知大学
+#      url: http://www.aichi-u.ac.jp/
+    - name: 植田 粋美
+      company: OSGeo.JP
+      url: https://www.osgeo.jp/
+    - name: 坂元 恭一
+      company: 株式会社オービタルネット
+      url: https://www.orbitalnet.jp/
+#    - name: 鈴木 秀和
+#      company: 名城大学 / Code for Nagoya
+#      url: https://www.meijo-u.ac.jp/, https://www.code4.nagoya/
+    - name: 宮内 はじめ
+      custom : <a href="https://www.osgeo.jp/">OSGeo.JP</a> / <a href="https://e2d3.org/">E2D3</a> / <a href="https://www.code4.nagoya/">Code for Nagoya</a>
+
+    - name: 小宮山 綾美
+      company: 朝日航洋
+      url: https://www.aeroasahi.co.jp/
+    - name: 向 直人
+      custom : <a href="https://www.sugiyama-u.ac.jp/">椙山女学園大学</a> / <a href="https://www.code4.nagoya/">Code for Nagoya</a>
+    - name: 向 陽菜
+      company: 個人
+      url:       		
+    - name: 立川 篤
+      company: ヤフー
+      url: https://about.yahoo.co.jp/hr/workplace/office/nagoya/
+
 # intro:
 #   heading: What we offer
 #   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
