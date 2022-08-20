@@ -78,14 +78,14 @@ session:
       title: オープニング
       detail: 
     - time: 11:10〜
-      title: <span class="grey-2">セッション1</span><br>森林情報のオープンデータとQGISでの利用
+      title: <span class="grey-2">セッション1</span><br><a target="_blank" href="https://speakerdeck.com/kou_kita/sen-lin-qing-bao-falseopundetato-qgisdefalseli-yong">森林情報のオープンデータとQGISでの利用</a>
       detail: キタ コウイチ<br>北海道
       icon: img/icon/01_キタ コウイチ.png
       profile: 現在は、北海道DX推進課というところでオープンデータの推進をしていますが、実は林業技師です。著書「業務で使うQGIS　Ver3完全使いこなしガイド」
       content: 森林情報をオープンデータにする意義と、森林情報データをQGISで活用していくための事例を全国のオープンデータサイトを見ながら考察します。
 
     - time: 11:30〜
-      title: <span class="grey-2">セッション2</span><br>「ぎふ森林情報WebMAP」の公開
+      title: <span class="grey-2">セッション2</span><br><a href="https://drive.google.com/file/d/1fWMERjrQftYNgtNfBesR-UzmhnHQw5XW/view?usp=sharing" target="_blank">「ぎふ森林情報WebMAP」の公開</a>
       detail: 古川 邦明<br>岐阜県立森林文化アカデミー兼森林研究所
       icon: img/icon/02_古川 邦明.png
       profile: 2019年3月末に岐阜県森林研究所を退職、2020年から森林文化アカデミースマート林業推進係でスマート林業関連技術の普及や森林情報WebMAPの作成、公開、管理を担当。
@@ -108,14 +108,14 @@ session:
       title: 昼休憩
 
     - time: 13:30〜
-      title: <span class="grey-2">セッション4</span><br>MySQLのGIS機能の機能追加/改善状況
+      title: <span class="grey-2">セッション4</span><br><a taget="_blank" href="https://speakerdeck.com/yoshiakiyamasaki/mysql-gis-update-202208">MySQLのGIS機能の機能追加/改善状況</a>
       detail: 山﨑 由章<br>日本オラクル株式会社 MySQL GBU
       icon: img/icon/04_山﨑 由章.png
       profile: MySQLのソリューションエンジニア。GIS分野でもMySQLが使われるように、普及促進を頑張っています！GISの聖地の1つである(？)明石市出身です！
       content: MySQLのGIS機能は、機能追加/改善を続けています。本発表では、特に<a href="https://qiita.com/miyauchi/items/5bdab7ea58f1114d6686">「MySQLのGIS機能に望むこと」</a>で言及されている3点を中心に、その後のMySQLでの改善状況を説明させて頂きます)
 
     - time: 13:50〜
-      title: <span class="grey-2">セッション5</span><br>こんにちは Oracle Spatial です(仮)
+      title: <span class="grey-2">セッション5</span><br><a target="_blank" href="https://drive.google.com/file/d/1FqYFCUOmkY10LSOx0nwV6VeEh0frEtWj/view?usp=sharing">こんにちは Oracle Spatial です</a>
       detail: 中井 亮矢<br>日本オラクル株式会社
       icon: img/icon/05_中井 亮矢.png
       profile: Oracle 製品担当エンジニア。空間機能(Spatial)やグラフデータベース機能、機械学習機能等の製品を担当しています。
@@ -129,7 +129,7 @@ session:
       content: 弊財団が開催するオンデマンド・オンサイト講座『森林・林業分野におけるリモートセンシング実務者講座』の中から、イントロダクションの一部をご紹介いたします。
 
     - time: 14:30〜
-      title: <span class="grey-2">セッション7</span><br>地域発！　山村集落の防災マップづくり
+      title: <span class="grey-2">セッション7</span><br><a target="_blank" href="https://gf17v.com/2022/08/11/foss4g-tokai-2022-2/">地域発！　山村集落の防災マップづくり</a>
       detail: 戸田 堅一郎<br>株式会社ジオ・フォレスト
       icon: img/icon/07_戸田 堅一郎.png
       profile: 令和４年３月まで長野県職に在籍。山地防災に関して研究し、CS立体図の開発等を行いました。県職を退職後、<a href="https://gf17v.com/">株式会社ジオ・フォレストを設立</a>。ジオ（大地）とフォレスト（森林）に関するコンサルティングを行います。
@@ -160,7 +160,7 @@ session:
       content: QGISで作った地図を屋外に持ち出したい。そんなあなたに、QFeildがあります。
 
     - time: 16:10〜
-      title: <span class="grey-2">セッション11</span><br>木こり見習いがWebGISで演習林のマップアプリを自作してみた      
+      title: <span class="grey-2">セッション11</span><br><a target="_blank" href="https://drive.google.com/file/d/11Og6yiRe6q7ciTuzJobU3cSD_0yssHh8/view?usp=sharing">木こり見習いがWebGISで演習林のマップアプリを自作してみた</a>
       detail: 小松 聖<br>株式会社MIERUNE
       icon: img/icon/11_小松 聖.png
       profile: 岐阜県出身で北海道に最近移住したGIS開発の新人エンジニアです。
@@ -187,6 +187,8 @@ news:
   youtube: https://www.youtube.com/embed/p4433V4rMdk
   text: 
    | 
+   - 8/20(土) : デジタル昆虫探検マップを公開しました。発表資料へのリンクを更新しました。
+
    - 8/10(水) : ハンズオンとワークショップの申し込みは終了しました。
    
    - 8/10(水) :セッションはオンライン参加のみ受付ています。
@@ -273,7 +275,7 @@ supporter:
       company: 個人
       url:       		
     - name: 立川 篤
-      company: ヤフー
+      company: ヤフー株式会社
       url: https://about.yahoo.co.jp/hr/workplace/office/nagoya/
 
 # intro:
